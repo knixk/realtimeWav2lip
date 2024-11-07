@@ -12,7 +12,5 @@ Wav2Lip/evaluation/test_filelists/lr*.txt
 *.mkv
 *.webm
 *.mp3
-Wav2Lip/checkpoints/
-openvino_model/
 node_modules
 bkp/
